@@ -1,13 +1,14 @@
 <h1 align="center">
 Sejam bem vindo ao meu cantinho
 </h1>
+<h4 align="left"> 
+	Olá, eu sou o Danilo. Um entusiasta que está encantado com a cultura DevOps. Trabalho atualmente com ambiente Jboss e OpenShift, caso queira entrar em contato, clique no ícone do LinkedIn que trocaremos uma ideia. 
+</h4>
 <p align="center">
 	<a href="https://www.linkedin.com/in/danilo-ara%C3%BAjo-011/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-
-<h4 align="center"> 
-	🚧  Repositório em contrução  🚧
 </h4>
+
 <h4 align="center"> 
 	_______________________________________________________________________________________
 </h4>
@@ -44,9 +45,9 @@ Sejam bem vindo ao meu cantinho
 <h4 align="center"> 
 	_______________________________________________________________________________________
 </h4>
-
-
-Wikis disponíveis
+<h4 align="center"> 
+	🚧  Wikis em construção  🚧
+</h4>
 <h4 align="left">
     <a href="https://github.com/daniloApache/Estudos/wiki/Docker">Docker</a>
 </h4>
