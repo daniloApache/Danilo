@@ -20,7 +20,7 @@ Wikis disponíveis
 </h4>
 
 
-### Let's Connect :coffee:
-<p align="center">
+### Vamos nos conversar? :coffee:
+<p align="left">
 	<a href="https://www.linkedin.com/in/danilo-ara%C3%BAjo-011/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
