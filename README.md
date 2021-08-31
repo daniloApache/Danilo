@@ -1,7 +1,6 @@
 <h1 align="center">
-  Sejam bem vindos ao meu ambiente de estudos
+Sejam bem vindo ao meu cantinho
 </h1>
-<p align="center"> Esse repositório é para o Danilo do futuro, aquele que vai acabar esquecendo uma coisa ou outra que estudou e terá que recorrer a alguma wiki, e nada melhor do que seu eu mesmo o criador dela.</p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/danilo-ara%C3%BAjo-011/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
