@@ -2,7 +2,7 @@
 Sejam bem vindo ao meu cantinho
 </h1>
 <h4 align="left"> 
-	Olá, eu sou o Danilo. Um entusiasta que está encantado com a cultura DevOps. Trabalho atualmente com ambiente Jboss e OpenShift, caso queira entrar em contato, clique no ícone do LinkedIn que trocaremos uma ideia. 
+	Olá, eu sou o Danilo. Um entusiasta que está encantado com a cultura DevOps. Trabalho atualmente com ambiente Jboss e OpenShift, revendo alguns processos e automatizando com o RunDeck, se quiser um papo a mais, clique no ícone do LinkedIn que trocaremos uma ideia. 
 </h4>
 <p align="center">
 	<a href="https://www.linkedin.com/in/danilo-ara%C3%BAjo-011/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
